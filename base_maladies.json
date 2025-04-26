@@ -1,0 +1,20 @@
+[
+    {
+        "nom": "Grippe",
+        "symptomes": "Fièvre, toux, douleurs musculaires",
+        "traitement": "Paracétamol, repos, hydratation",
+        "prevention": "Vaccin, lavage des mains, éviter les foules"
+    },
+    {
+        "nom": "Covid-19",
+        "symptomes": "Fièvre, toux, fatigue, perte de goût/odorat",
+        "traitement": "Isolement, paracétamol, surveillance",
+        "prevention": "Masque, vaccination, gestes barrières"
+    },
+    {
+        "nom": "Angine",
+        "symptomes": "Mal de gorge, fièvre, difficulté à avaler",
+        "traitement": "Antibiotiques (si bactérienne), repos",
+        "prevention": "Hygiène buccale, éviter les contacts"
+    }
+]
